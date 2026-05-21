@@ -1,16 +1,28 @@
-## Hi there 👋
+# Tyrell Brown
 
-<!--
-**tyrellbrowncloud/tyrellbrowncloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Operations | AWS | Linux | Infrastructure | PMP | ITIL
 
-Here are some ideas to get you started:
+Building hands-on experience in:
+- AWS Cloud Engineering
+- Linux Administration
+- Infrastructure Operations
+- Networking
+- Terraform
+- Git/GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- AWS Solutions Architect Associate
+- AWS Networking
+- IAM & Security
+- Cloud Documentation
+- Infrastructure Automation
+
+## Featured Projects
+- AWS Networking Labs
+- IAM Security Labs
+- Cloud Engineer Journal
+- Linux Administration Notes
+- Terraform Foundations
+
+## Background
+Military logistics and operations professional transitioning into cloud infrastructure and cloud operations.
